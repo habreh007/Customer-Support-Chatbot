@@ -1,6 +1,6 @@
 # AI Customer Support Chatbot
 
-An AI-powered customer support automation built with **n8n** that automatically processes customer emails, retrieves relevant information from a knowledge base, generates accurate responses, and replies to customers without requiring manual intervention.
+An AI powered customer support automation built with **n8n** that automatically processes customer emails, retrieves relevant information from a knowledge base, generates accurate responses, and replies to customers without requiring manual intervention.
 
 ---
 
@@ -34,7 +34,7 @@ Handling these manually can increase response time and consume valuable support 
 
 ## 💡 Solution
 
-This workflow acts as an AI-powered first-line customer support system.
+This workflow acts as an AI powered first-line customer support system.
 
 When a customer sends an email, the automation:
 
